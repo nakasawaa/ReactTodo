@@ -1,8 +1,8 @@
 import Personnage from "./Personnage";
 
 export default function Personnages () {
-    const personnes = [{actor: "Jim Carrey" , role: "Bitch"},
-    {actor: "Eddy Murphy", role: "Salop"}]
+    const personnes = [{actor: "Jim Carrey" , role: "Le Mask"},
+    {actor: "Eddy Murphy", role: "L'ane"}]
 
     return(
     <div>
